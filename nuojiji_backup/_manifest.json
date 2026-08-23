@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787498415901,
+  "timestamp": 1787498425190,
   "appVersion": "6.9.42 (2026.08.23)",
   "tables": [
     "characters",
@@ -84,7 +84,7 @@
     "messages": 187,
     "ttsAudio": 2,
     "imageStore": 5,
-    "thinkingStore": 1
+    "thinkingStore": 2
   },
   "completedTables": {
     "characters": true,
