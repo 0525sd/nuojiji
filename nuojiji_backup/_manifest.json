@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117742972,
+  "timestamp": 1791117748505,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -212,7 +212,8 @@
     "studyExams": true,
     "studyCards": true,
     "shopFulfillments": true,
-    "deliveryOrders": true
+    "deliveryOrders": true,
+    "deliveryData": true
   },
   "inProgress": true
 }
