@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117480831,
+  "timestamp": 1791117487755,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -196,7 +196,8 @@
     "jiliData": true,
     "jiliCreators": true,
     "jiliPosts": true,
-    "jiliDMs": true
+    "jiliDMs": true,
+    "jiliDMMessages": true
   },
   "inProgress": true
 }
