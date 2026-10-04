@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791116915119,
+  "timestamp": 1791116920997,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -188,7 +188,8 @@
     "shopOrders": true,
     "shopData": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "forumItems": true
   },
   "inProgress": true
 }
