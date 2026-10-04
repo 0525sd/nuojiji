@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117668125,
+  "timestamp": 1791117675876,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -202,7 +202,9 @@
     "lifeRpgData": true,
     "novelVolumes": true,
     "coReadComments": true,
-    "rowFieldItems": true
+    "rowFieldItems": true,
+    "coReadQuotes": true,
+    "coReadTranslations": true
   },
   "inProgress": true
 }
