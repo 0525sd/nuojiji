@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117460858,
+  "timestamp": 1791117468166,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -191,7 +191,9 @@
     "_migration": true,
     "forumItems": true,
     "customCalendars": true,
-    "xinshengRounds": true
+    "xinshengRounds": true,
+    "goingOutLogs": true,
+    "jiliData": true
   },
   "inProgress": true
 }
