@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117675876,
+  "timestamp": 1791117681515,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -204,7 +204,8 @@
     "coReadComments": true,
     "rowFieldItems": true,
     "coReadQuotes": true,
-    "coReadTranslations": true
+    "coReadTranslations": true,
+    "studyTalks": true
   },
   "inProgress": true
 }
