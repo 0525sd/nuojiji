@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791116949231,
+  "timestamp": 1791116958111,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -190,7 +190,8 @@
     "charLifePlans": true,
     "_migration": true,
     "forumItems": true,
-    "customCalendars": true
+    "customCalendars": true,
+    "xinshengRounds": true
   },
   "inProgress": true
 }
