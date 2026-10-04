@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117419447,
+  "timestamp": 1791117426015,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -119,7 +119,7 @@
     "ttsAudio": 38,
     "imageStore": 26,
     "thinkingStore": 2,
-    "stickerStore": 2
+    "stickerStore": 4
   },
   "completedTables": {
     "characters": true,
