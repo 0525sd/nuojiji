@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791117662511,
+  "timestamp": 1791117668125,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -201,7 +201,8 @@
     "shareLinkMeta": true,
     "lifeRpgData": true,
     "novelVolumes": true,
-    "coReadComments": true
+    "coReadComments": true,
+    "rowFieldItems": true
   },
   "inProgress": true
 }
